@@ -1,0 +1,6 @@
+{
+  "name": "SuperEstoque - Gestão Inteligente",
+  "description": "Sistema completo de controle de estoque para supermercados com gestão de produtos, categorias, alertas de reposição e assistente inteligente de inventário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
